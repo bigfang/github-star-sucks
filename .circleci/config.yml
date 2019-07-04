@@ -1,0 +1,14 @@
+version: 2
+jobs:
+  check:
+    docker:
+      - image: circleci/ruby:2.6
+    steps:
+      - checkout
+      - run: gem install awesome_bot
+      - run: awesome_bot README.org --allow-redirect
+workflows:
+  version: 2
+  test:
+    jobs:
+      - check
