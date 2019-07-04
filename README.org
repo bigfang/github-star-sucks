@@ -11,20 +11,24 @@
 #+SETUPFILE: https://github.com/fniessen/org-html-themes/raw/master/setup/theme-readtheorg.setup
 
 
-
 ** 看不懂
-*** 中文版
+*** 没头脑
+**** 微辣
 - [[https://github.com/acl-translation/acl-chinese][ANSI Common Lisp 中文版]]
 - [[https://github.com/fleurer/lyah][haskell 趣学指南]]（半本） =Learn You a Haskell for Great Good!=
 - [[https://github.com/MnO2/learnyouahaskell-zh][haskell 趣学指南]]（全本） =Learn You a Haskell for Great Good!=
 - [[https://github.com/huangz1990/real-world-haskell-cn][Real World Haskell 中文版]] =Real World Haskell=
 - [[https://github.com/KaiserY/trpl-zh-cn][Rust 程序设计语言]] =The Rust Programming Language=
+- [[https://github.com/BonsaiDen/JavaScript-Garden][JavaScript Garden]]
 - [[https://github.com/llh911001/mostly-adequate-guide-chinese][JS 函数式编程指南]] =Mostly adequate guide to FP (in javascript)=
 - [[https://github.com/xcatliu/typescript-tutorial][TypeScript 入门教程]]
 - [[https://github.com/jkchao/typescript-book-chinese][TypeScript Deep Dive 中文版]] =TypeScript Deep Dive=
 - [[https://github.com/openresty/nginx-tutorials][Nginx Tutorials]]
 - [[https://github.com/moonbingbing/openresty-best-practices][OpenResty 最佳实践]]
-*** 原版
+**** 中辣
+- [[https://github.com/lotuc/PLAI-cn][Programming Languages: Application and Interpretation 中文版]]
+- [[https://github.com/mrmathematica/ooplai-zh][面对对象编程语言：应用和解释]] =Object-Oriented Programming Languages: Application and Interpretation=
+*** 不高兴
 - [[https://learnyousomeerlang.com/content][Learn You Some Erlang for great good!]]
 - [[https://github.com/happi/theBeamBook][The BEAM Book]]
 - [[https://github.com/sarabander/sicp][Structure and Interpretation of Computer Programs]]
@@ -34,3 +38,5 @@
 - [[https://github.com/jlevy/the-art-of-command-line][The Art of Command Line]]
 - [[https://github.com/alex/what-happens-when][What happens when...]]
 - [[https://github.com/donnemartin/system-design-primer][The System Design Primer]]
+** 记不住 
+- [[https://github.com/ziishaned/learn-regex][Learn Regex]]
