@@ -15,6 +15,7 @@
 *** 没头脑
 **** 微辣
 - [[https://github.com/acl-translation/acl-chinese][ANSI Common Lisp 中文版]]
+- [[https://github.com/binghe/pcl-cn][实用Common Lisp编程]]（中英文对照版） =Practical Common Lisp=
 - [[https://github.com/fleurer/lyah][haskell 趣学指南]]（半本） =Learn You a Haskell for Great Good!=
 - [[https://github.com/MnO2/learnyouahaskell-zh][haskell 趣学指南]]（全本） =Learn You a Haskell for Great Good!=
 - [[https://github.com/huangz1990/real-world-haskell-cn][Real World Haskell 中文版]] =Real World Haskell=
