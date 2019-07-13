@@ -24,6 +24,7 @@
 - [[https://github.com/llh911001/mostly-adequate-guide-chinese][JS 函数式编程指南]] =Mostly adequate guide to FP (in javascript)=
 - [[https://github.com/xcatliu/typescript-tutorial][TypeScript 入门教程]]
 - [[https://github.com/jkchao/typescript-book-chinese][TypeScript Deep Dive 中文版]] =TypeScript Deep Dive=
+- [[https://github.com/liubin/promises-book][JavaScript Promise 迷你书]] =JavaScript Promise の本=
 - [[https://github.com/openresty/nginx-tutorials][Nginx Tutorials]]
 - [[https://github.com/moonbingbing/openresty-best-practices][OpenResty 最佳实践]]
 **** 中辣
