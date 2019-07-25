@@ -35,10 +35,10 @@
 - [[https://github.com/happi/theBeamBook][The BEAM Book]]
 - [[https://github.com/sarabander/sicp][Structure and Interpretation of Computer Programs]]
 ** 用不到
-- [[https://github.com/sparanoid/chinese-copywriting-guidelines][中文文案排版指北]]
+- [[https://github.com/aaranxu/chinese-copywriting-guidelines][中文排版指南]] / [[https://github.com/sparanoid/chinese-copywriting-guidelines][中文文案排版指北]]
 - [[https://github.com/dwmkerr/hacker-laws][Hacker Laws]]
 - [[https://github.com/jlevy/the-art-of-command-line][The Art of Command Line]]
 - [[https://github.com/alex/what-happens-when][What happens when...]]
 - [[https://github.com/donnemartin/system-design-primer][The System Design Primer]]
-** 记不住 
+** 记不住
 - [[https://github.com/ziishaned/learn-regex][Learn Regex]]
