@@ -34,7 +34,7 @@
 - [[https://learnyousomeerlang.com/content][Learn You Some Erlang for great good!]]
 - [[https://github.com/happi/theBeamBook][The BEAM Book]]
 - [[https://github.com/sarabander/sicp][Structure and Interpretation of Computer Programs]]
-** 用不到
+** 学不会
 - [[https://github.com/aaranxu/chinese-copywriting-guidelines][中文排版指南]] / [[https://github.com/sparanoid/chinese-copywriting-guidelines][中文文案排版指北]]
 - [[https://github.com/dwmkerr/hacker-laws][Hacker Laws]]
 - [[https://github.com/jlevy/the-art-of-command-line][The Art of Command Line]]
@@ -42,3 +42,12 @@
 - [[https://github.com/donnemartin/system-design-primer][The System Design Primer]]
 ** 记不住
 - [[https://github.com/ziishaned/learn-regex][Learn Regex]]
+** 用不到
+- [[https://github.com/sharkdp/bat][bat]]
+- [[https://github.com/ogham/exa][exa]]
+- [[https://github.com/sharkdp/fd][fd-find]] =fd=
+- [[https://github.com/jhspetersson/fselect][fselect]]
+- [[https://github.com/Y2Z/monolith][monolith]]
+- [[https://github.com/BurntSushi/ripgrep][ripgrep]] =rg=
+- [[https://github.com/lotabout/skim][skim]] =fzf=
+- [[https://github.com/XAMPPRocky/tokei][tokei]]
