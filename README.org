@@ -51,3 +51,5 @@
 - [[https://github.com/BurntSushi/ripgrep][ripgrep]] =rg=
 - [[https://github.com/lotabout/skim][skim]] =fzf=
 - [[https://github.com/XAMPPRocky/tokei][tokei]]
+** 文豪
+- [[https://github.com/MindFxck/daguguguji][特师文集]]
