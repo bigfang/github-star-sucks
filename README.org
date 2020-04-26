@@ -14,19 +14,20 @@
 ** 看不懂
 *** 没头脑
 **** 微辣
+- [[https://github.com/KaiserY/trpl-zh-cn][Rust 程序设计语言]] =The Rust Programming Language=
+- [[https://github.com/xcatliu/typescript-tutorial][TypeScript 入门教程]]
+- [[https://github.com/jkchao/typescript-book-chinese][TypeScript Deep Dive 中文版]] =TypeScript Deep Dive=
+- [[https://github.com/liubin/promises-book][JavaScript Promise 迷你书]] =JavaScript Promise の本=
+- [[https://github.com/moonbingbing/openresty-best-practices][OpenResty 最佳实践]]
+**** 中辣
 - [[https://github.com/acl-translation/acl-chinese][ANSI Common Lisp 中文版]]
 - [[https://github.com/binghe/pcl-cn][实用Common Lisp编程]]（中英文对照版） =Practical Common Lisp=
 - [[https://github.com/fleurer/lyah][haskell 趣学指南]]（半本） =Learn You a Haskell for Great Good!=
 - [[https://github.com/MnO2/learnyouahaskell-zh][haskell 趣学指南]]（全本） =Learn You a Haskell for Great Good!=
 - [[https://github.com/huangz1990/real-world-haskell-cn][Real World Haskell 中文版]] =Real World Haskell=
-- [[https://github.com/KaiserY/trpl-zh-cn][Rust 程序设计语言]] =The Rust Programming Language=
 - [[https://github.com/llh911001/mostly-adequate-guide-chinese][JS 函数式编程指南]] =Mostly adequate guide to FP (in javascript)=
-- [[https://github.com/xcatliu/typescript-tutorial][TypeScript 入门教程]]
-- [[https://github.com/jkchao/typescript-book-chinese][TypeScript Deep Dive 中文版]] =TypeScript Deep Dive=
-- [[https://github.com/liubin/promises-book][JavaScript Promise 迷你书]] =JavaScript Promise の本=
 - [[https://github.com/openresty/nginx-tutorials][Nginx Tutorials]]
-- [[https://github.com/moonbingbing/openresty-best-practices][OpenResty 最佳实践]]
-**** 中辣
+**** 重辣
 - [[https://github.com/lotuc/PLAI-cn][Programming Languages: Application and Interpretation 中文版]]
 - [[https://github.com/mrmathematica/ooplai-zh][面对对象编程语言：应用和解释]] =Object-Oriented Programming Languages: Application and Interpretation=
 *** 不高兴
@@ -41,6 +42,7 @@
 - [[https://github.com/donnemartin/system-design-primer][The System Design Primer]]
 ** 记不住
 - [[https://github.com/ziishaned/learn-regex][Learn Regex]]
+- [[https://erlang.org/doc/man/re.html][Erlang]] / [[https://perldoc.perl.org/perlre.html][Perl]] / [[https://docs.microsoft.com/zh-cn/dotnet/standard/base-types/regular-expression-language-quick-reference][.NET]]
 ** 用不到
 - [[https://github.com/sharkdp/bat][bat]]
 - [[https://github.com/ogham/exa][exa]]

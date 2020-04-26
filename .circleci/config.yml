@@ -2,7 +2,7 @@ version: 2
 jobs:
   check:
     docker:
-      - image: circleci/ruby:2.6
+      - image: circleci/ruby:2.4.2
     steps:
       - checkout
       - run: gem install awesome_bot
