@@ -43,6 +43,13 @@
 ** 记不住
 - [[https://github.com/ziishaned/learn-regex][Learn Regex]]
 - [[https://erlang.org/doc/man/re.html][Erlang]] / [[https://perldoc.perl.org/perlre.html][Perl]] / [[https://docs.microsoft.com/zh-cn/dotnet/standard/base-types/regular-expression-language-quick-reference][.NET]]
+** 买不起
+*** 互喷
+- [[https://www.sonarqube.org][SonarQube]]
+- [[https://sentry.io][Sentry]]
+*** 找茬
+- [[https://prometheus.io][Prometheus]]
+- [[https://zipkin.io][Zipkin]]
 ** 用不到
 - [[https://github.com/sharkdp/bat][bat]]
 - [[https://github.com/ogham/exa][exa]]
