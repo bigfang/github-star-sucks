@@ -52,13 +52,10 @@
 - [[https://prometheus.io][Prometheus]]
 - [[https://zipkin.io][Zipkin]]
 ** 用不到
-- [[https://github.com/sharkdp/bat][bat]]
-- [[https://github.com/ogham/exa][exa]]
-- [[https://github.com/sharkdp/fd][fd-find]] =fd=
 - [[https://github.com/jhspetersson/fselect][fselect]]
 - [[https://github.com/Y2Z/monolith][monolith]]
-- [[https://github.com/BurntSushi/ripgrep][ripgrep]] =rg=
-- [[https://github.com/lotabout/skim][skim]] =fzf=
+- [[https://github.com/chmln/sd][sd]]
 - [[https://github.com/XAMPPRocky/tokei][tokei]]
+- [[https://github.com/BurntSushi/xsv][xsv]]
 ** 文豪
 - [[https://github.com/MindFxck/daguguguji][特师文集]]
