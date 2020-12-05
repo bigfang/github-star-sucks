@@ -8,7 +8,7 @@
 #+KEYWORDS: github, book
 #+LANGUAGE: zh-cn
 #+OPTIONS: ^:nil
-#+SETUPFILE: https://github.com/fniessen/org-html-themes/raw/master/setup/theme-readtheorg.setup
+#+SETUPFILE: https://github.com/fniessen/org-html-themes/raw/master/org/theme-readtheorg.setup
 
 
 ** 看不懂
@@ -58,5 +58,6 @@
 - [[https://github.com/chmln/sd][sd]]
 - [[https://github.com/XAMPPRocky/tokei][tokei]]
 - [[https://github.com/BurntSushi/xsv][xsv]]
+- [[https://github.com/arnaudsj/monit][monit]]
 ** 文豪
 - [[https://github.com/MindFxck/daguguguji][特师文集]]
