@@ -48,16 +48,16 @@
 ** 买不起
 *** 互喷
 - [[https://www.sonarqube.org][SonarQube]]
-- [[https://sentry.io][Sentry]]
 *** 找茬
-- [[https://prometheus.io][Prometheus]]
 - [[https://zipkin.io][Zipkin]]
 ** 用不到
-- [[https://github.com/jhspetersson/fselect][fselect]]
-- [[https://github.com/Y2Z/monolith][monolith]]
-- [[https://github.com/chmln/sd][sd]]
-- [[https://github.com/XAMPPRocky/tokei][tokei]]
-- [[https://github.com/BurntSushi/xsv][xsv]]
-- [[https://github.com/arnaudsj/monit][monit]]
+- [[https://github.com/dandavison/delta][delta]] =git diff=
+- [[https://github.com/jhspetersson/fselect][fselect]] =ls=
+- [[https://github.com/arnaudsj/monit][monit]] =监控=
+- [[https://github.com/Y2Z/monolith][monolith]] =下载=
+- [[https://github.com/o2sh/onefetch][onefetch]] =git 概况=
+- [[https://github.com/chmln/sd][sd]] =sed=
+- [[https://github.com/XAMPPRocky/tokei][tokei]] =cloc=
+- [[https://github.com/BurntSushi/xsv][xsv]] =csv=
 ** 文豪
 - [[https://github.com/MindFxck/daguguguji][特师文集]]
