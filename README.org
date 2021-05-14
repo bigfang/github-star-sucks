@@ -16,9 +16,9 @@
 **** 微辣
 - [[https://github.com/KaiserY/trpl-zh-cn][Rust 程序设计语言]] =The Rust Programming Language=
 - [[https://github.com/zhongsp/TypeScript][TypeScript 文档]]
-- [[https://github.com/xcatliu/typescript-tutorial][TypeScript 入门教程]]
 - [[https://github.com/jkchao/typescript-book-chinese][TypeScript Deep Dive 中文版]] =TypeScript Deep Dive=
 - [[https://github.com/liubin/promises-book][JavaScript Promise 迷你书]] =JavaScript Promise の本=
+- [[https://fsharpforfunandprofit.com][F# for Fun and Profit]]
 - [[https://github.com/moonbingbing/openresty-best-practices][OpenResty 最佳实践]]
 **** 中辣
 - [[https://github.com/acl-translation/acl-chinese][ANSI Common Lisp 中文版]]
