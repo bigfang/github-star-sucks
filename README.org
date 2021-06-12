@@ -27,6 +27,7 @@
 - [[https://github.com/MnO2/learnyouahaskell-zh][haskell 趣学指南]]（全本） =Learn You a Haskell for Great Good!=
 - [[https://github.com/huangz1990/real-world-haskell-cn][Real World Haskell 中文版]] =Real World Haskell=
 - [[https://github.com/llh911001/mostly-adequate-guide-chinese][JS 函数式编程指南]] =Mostly adequate guide to FP (in javascript)=
+- [[https://github.com/RxJS-CN/learn-rxjs-operators][学习 RxJS]] =Learn RxJS=
 - [[https://github.com/openresty/nginx-tutorials][Nginx Tutorials]]
 - [[http://erlang.org/download/armstrong_thesis_2003.pdf][面向软件错误构建可靠的分布式系统]] =Making reliable distributed systems in the presence of sodware errors=
 **** 重辣
