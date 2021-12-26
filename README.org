@@ -61,10 +61,11 @@
 - [[https://github.com/Y2Z/monolith][monolith]] =下载=
 - [[https://github.com/nushell/nushell][nushell]] =shell=
 - [[https://github.com/o2sh/onefetch][onefetch]] =git 概况=
+- [[https://github.com/dalance/procs][procs]] =ps=
 - [[https://github.com/dflemstr/rq][rq]] =各种格式=
 - [[https://github.com/chmln/sd][sd]] =sed=
 - [[https://github.com/XAMPPRocky/tokei][tokei]] =cloc=
-- [[https://github.com/dalance/procs][procs]] =ps=
 - [[https://github.com/BurntSushi/xsv][xsv]] =csv=
+- [[https://github.com/ajeetdsouza/zoxide][zoxide]] =z=
 ** 文豪
 - [[https://github.com/MindFxck/daguguguji][特师文集]]
