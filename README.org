@@ -57,6 +57,7 @@
 - [[https://github.com/dandavison/delta][delta]] =git diff=
 - [[https://github.com/bootandy/dust][dust]] =du=
 - [[https://github.com/jhspetersson/fselect][fselect]] =ls=
+- [[https://github.com/casey/just][just]] =make=
 - [[https://github.com/arnaudsj/monit][monit]] =监控=
 - [[https://github.com/Y2Z/monolith][monolith]] =下载=
 - [[https://github.com/nushell/nushell][nushell]] =shell=
